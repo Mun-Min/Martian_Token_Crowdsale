@@ -8,14 +8,6 @@ After waiting for years and passing several tests, the Martian Aerospace Agency 
 
 KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
-## Files
-
-Download the following files to help you get started:
-
-[KaseiCoin.sol](./Starter_Code/KaseiCoin.sol)
-
-[KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
-
 ## Instructions
 
 The steps for this assignment are divided into the following subsections:
@@ -233,14 +225,6 @@ You can also record your interactions with the executed contract as a short vide
 * If you’re working on Windows 10, you can create a screen recording by using the built-in Xbox Game Bar. To learn more about this tool, refer to [Use Xbox Game Bar to capture game clips and screenshots on Windows 10](https://beta.support.xbox.com/help/friends-social-activity/share-socialize/record-game-clips-game-bar-windows-10) in the Microsoft Support documentation.
 
 * To create an animated GIF, you can use [Recordit](https://recordit.co/) on either macOS or Windows.
-
----
-
-## Submission
-
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
 
