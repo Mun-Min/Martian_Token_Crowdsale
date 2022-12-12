@@ -1,7 +1,7 @@
 # Solidity Smart Contract Execution Results
 
 <p align="center">
-  <img src="./../Images/crypto.png"/>
+  <img src="./../Images/crypto.png"/ width = 850 height = 400>
 </p>
 
 ---
