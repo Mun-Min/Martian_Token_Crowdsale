@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/108703181/207176948-c3cec577-5f70-4054
     * KaseiCoin Crowdsale Contract
     * KaseiCoin Crowdsale Deployer Contract
 
-> **Note:** The KaseiCoin Crowdsale contract utilizes additional libraries from OpenZepplin to extend the functionality of the contract by adding time restrictions, refund capablities, and a cap for the number of tokens that can be created. In the video above, you can see that there is a cap of 50 ETH being placed into the contract, indicating the maximum amount of funds wanting to be raised. The time restriction is also integrating into the crowdsale which is set to 5 minutes after executing the crowdsale contract. The contract owner has the ability to refund user funds only when the crowdsales time restriction ends and if the cap goal is not satisfied.
+> **Note:** The KaseiCoin Crowdsale contract utilizes additional libraries from OpenZepplin to extend the functionality of the contract by adding time restrictions, refund capablities, and a cap for the number of tokens that can be created. In the video above, you can see that there is a cap of 50 ETH being placed into the contract, indicating the maximum amount of funds wanting to be raised. The time restriction is also integrated into the crowdsale which is set to 5 minutes after executing the crowdsale contract. The contract owner has the ability to refund user funds only when the crowdsales time restriction ends and if the cap goal is not satisfied.
 
 ---
 
